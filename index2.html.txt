@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head><title>My Personal Website</title></head>
+<body>
+<header>
+<img src="img/background.jpg" height="200" width="1350">
+</header>
+<hr>
+<nav>
+<table cellspacing="10" cellpadding="10">
+<tr>
+<td><a href="img/index.html">Home</a></td>
+<td><a href="img/biodata.html">Biodata</a></td>
+<td><a href="img/experience.html">Experience</a></td>
+<td><a href="img/education.html">Education</a></td>
+<td><a href="img/family.html">Family</a></td>
+<td><a href="img/gallery.html">Gallery</a></td>
+</tr>
+</table>
+</nav>
+<hr>
